@@ -5,7 +5,7 @@ certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
 click==6.7
-cryptography==2.2.2
+cryptography==2.3
 cycler==0.10.0
 Django==1.11.14
 enum34==1.1.6
